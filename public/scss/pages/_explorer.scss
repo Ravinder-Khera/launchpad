@@ -1,0 +1,195 @@
+.explore, .explore-details{
+	background: url('../images/pagesBg.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.explore-list {
+	text-align: center;
+	background: url('../images/pagesBg.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	.explore-list-banner{
+		border-bottom: 1px solid $primary;
+	}
+	.explore-list-profile {
+		text-align: center;
+		margin-top: -75px;
+		img {
+			border-radius: 100px;
+			margin-bottom: 15px;
+			width: 100px;
+			border: 2px solid $primary;
+		}
+		h4 {
+			font-size: 22px;
+		}
+		span {
+			font-size: 14px;
+		}
+		.game-social {
+			display: none;
+			margin-top: 10px;
+			margin-bottom: 20px;
+			a {
+				color: $white;
+				margin-right: 15px;
+			}
+		}
+	}
+
+	p {
+		margin-bottom: 30px;
+		text-align: center;
+	}
+
+	h5 {
+		margin-top: 10px;
+		margin-bottom: 20px;
+	}
+	.btn {
+		margin-top: 20px;
+	}
+}
+
+.complete-progress {
+	margin-bottom: 20px;
+	text-align: left;
+	span {
+		margin: 15px 0px;
+		font-size: 14px;
+	}
+	.progress {
+		height: 8px;
+		background-color: $purple;
+		.progress-bar {
+			background-color: $secondary;
+		}
+	}
+}
+
+.explore-grid {
+	border: 2px solid $light;
+	padding: 30px;
+	background: $light;
+	border-radius: 50px;
+	margin-bottom: 30px;
+	.igo-status {
+		font-weight: 700;
+		font-size: 18px;
+		margin-bottom: 10px;
+		text-align: right;
+		color: $white;
+	}
+	.explore-grid-content {
+		display: flex;
+		margin-bottom: 30px;
+		align-items: flex-start;
+		@include respond('sm'){
+			display: block;
+		}
+
+		img {
+			border-radius: $radius;
+			width: 100%;
+			width: 200px;
+			@include respond('sm'){
+				margin-bottom: 30px;
+				width: 100%;
+			}
+		}
+	}
+	.game-desc {
+		h4 {
+			font-size: 24px;
+		}
+
+		.game-social {
+			a {
+				color: $white;
+				margin-right: 15px;
+				font-size: 23px;
+			}
+		}
+	}
+
+	.game-info {
+		background: $primary;
+		text-align: center;
+		border-radius: 50px;
+		padding: 5px 12px;
+		margin: 10px 0px;
+		span {
+			margin-left: 10px;
+			color: $white;
+			font-weight: 600;
+		}
+	}
+}
+
+.explore-details-head {
+	h2 {
+		margin-bottom: 0px;
+	}
+	h6 {
+		color: $body-color;
+	}
+	.badge {
+		margin-right: 10px;
+		background-color: $primary;
+		color: $white;
+		padding: 10px 15px;
+		border-radius: 50px;
+		margin-bottom: 20px;
+		margin-top: 10px;
+	}
+}
+
+.explore-details-content {
+	ul {
+		margin-bottom: 30px;
+		list-style: disc;
+	    margin-left: 10px;
+		li {
+			border-bottom: 1px solid #AEAEAE;
+			padding: 10px 0px;
+			list-style: disc;
+			&:last-child {
+				border: 0px;
+			}
+		}
+	}
+}
+
+.explore-details-about {
+	.social-link {
+		a {
+			color: $white;
+			margin-right: 15px;
+			font-size: 22px;
+		}
+	}
+}
+
+.pool-details,
+.token-metrics,
+.distribution {
+	ul {
+		li {
+			border-bottom: 1px solid #AEAEAE;
+			padding: 10px 0px;
+			&:last-child {
+				border: 0px;
+			}
+			display: flex;
+			span {
+				min-width: 250px;
+				display: inline-block;
+				@include respond("xs") {
+					min-width: 120px;
+				}
+			}
+		}
+	}
+}
