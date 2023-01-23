@@ -5,9 +5,9 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/RGnIAp6ZtT6k20eruGj55/_buildManifest.js",
-    "static/RGnIAp6ZtT6k20eruGj55/_ssgManifest.js",
-    "static/RGnIAp6ZtT6k20eruGj55/_middlewareManifest.js"
+    "static/19qqxX5b8RPuccnIeixLM/_buildManifest.js",
+    "static/19qqxX5b8RPuccnIeixLM/_ssgManifest.js",
+    "static/19qqxX5b8RPuccnIeixLM/_middlewareManifest.js"
   ],
   "pages": {
     "/": [
@@ -16,7 +16,7 @@
       "static/chunks/main-01df828e572375b9.js",
       "static/chunks/142-9ce435f9e415887d.js",
       "static/chunks/271-8e87c683afc0ee79.js",
-      "static/chunks/pages/index-54657588f0da6c0c.js"
+      "static/chunks/pages/index-1afc6fa38ff5e728.js"
     ],
     "/_app": [
       "static/chunks/webpack-432e01b4271350de.js",
@@ -124,13 +124,13 @@
       "static/chunks/main-01df828e572375b9.js",
       "static/chunks/142-9ce435f9e415887d.js",
       "static/chunks/271-8e87c683afc0ee79.js",
-      "static/chunks/pages/ranking-9e9af331ef882bc8.js"
+      "static/chunks/pages/ranking-346fe4c8b36df6c4.js"
     ],
     "/reset": [
       "static/chunks/webpack-432e01b4271350de.js",
       "static/chunks/framework-5f4595e5518b5600.js",
       "static/chunks/main-01df828e572375b9.js",
-      "static/chunks/pages/reset-58561c442900d8cc.js"
+      "static/chunks/pages/reset-bd6aeea522d7f150.js"
     ],
     "/roadmap": [
       "static/chunks/webpack-432e01b4271350de.js",
@@ -145,14 +145,14 @@
       "static/chunks/framework-5f4595e5518b5600.js",
       "static/chunks/main-01df828e572375b9.js",
       "static/chunks/526-b05c4a8f8c42e1e4.js",
-      "static/chunks/pages/signin-34812a739079008b.js"
+      "static/chunks/pages/signin-06982f9c0a8c360e.js"
     ],
     "/signup": [
       "static/chunks/webpack-432e01b4271350de.js",
       "static/chunks/framework-5f4595e5518b5600.js",
       "static/chunks/main-01df828e572375b9.js",
       "static/chunks/526-b05c4a8f8c42e1e4.js",
-      "static/chunks/pages/signup-2829267e242c051b.js"
+      "static/chunks/pages/signup-c509b0a9a589d7a9.js"
     ],
     "/staking-one": [
       "static/chunks/webpack-432e01b4271350de.js",
@@ -160,7 +160,7 @@
       "static/chunks/main-01df828e572375b9.js",
       "static/chunks/142-9ce435f9e415887d.js",
       "static/chunks/271-8e87c683afc0ee79.js",
-      "static/chunks/pages/staking-one-701c7394b96ac239.js"
+      "static/chunks/pages/staking-one-ccd5659f219435db.js"
     ],
     "/staling-two": [
       "static/chunks/webpack-432e01b4271350de.js",
