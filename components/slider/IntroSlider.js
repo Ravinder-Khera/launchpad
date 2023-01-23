@@ -53,13 +53,13 @@ const IntroSlider = () => {
                     <SwiperSlide>
                         <div className="slider-item">
                             <img
-                                src={`/images/items/${item.img}`}
+                                src={`/launchpad/images/items/${item.img}`}
                                 alt=""
                                 className="img-fluid"
                             />
                             {/* <div className="slider-item-avatar">
                                 <img
-                                    src={`/images/avatar/${item.avatar}`}
+                                    src={`/launchpad/images/avatar/${item.avatar}`}
                                     alt=""
                                 />
                                 <div>

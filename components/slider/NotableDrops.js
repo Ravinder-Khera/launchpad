@@ -51,7 +51,7 @@ const NotableDrops = () => {
                         <div className="card">
                             <img
                                 className="img-fluid card-img-top"
-                                src={`/images/items/${item.img}`}
+                                src={`/launchpad/images/items/${item.img}`}
                                 alt=""
                             />
                             <div className="card-body">

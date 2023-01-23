@@ -72,7 +72,7 @@ const Index = () => {
 							</div>
 							<div className="col-xl-6">
 								<div className="intro-slider">
-									<img src={`/launchpad/images/homeBanner.png`} className='img-fluid' alt="BlockChain" />
+									<img src={`/launchpad/launchpad/images/homeBanner.png`} className='img-fluid' alt="BlockChain" />
 									{/* <IntroSlider /> */}
 								</div>
 							</div>
@@ -115,7 +115,7 @@ const Index = () => {
 							<div className="col-lg-5">
 								<div className="what-we-do-img">
 									<img
-										src="/images/items/v3.png"
+										src="/launchpad/images/items/v3.png"
 										alt=""
 										className="img-fluid rounded"
 									/>
@@ -212,7 +212,7 @@ const Index = () => {
 							<div className="col-md-6">
 								<div className="creating-content">
 									<img
-										src="/images/createSection/1.png"
+										src="/launchpad/images/createSection/1.png"
 										className="img-fluid rounded"
 										alt=""
 									/>
@@ -230,7 +230,7 @@ const Index = () => {
 							<div className="col-md-6">
 								<div className="creating-content">
 									<img
-										src="/images/createSection/2.png"
+										src="/launchpad/images/createSection/2.png"
 										className="img-fluid rounded"
 										alt=""
 									/>
@@ -275,7 +275,7 @@ const Index = () => {
 											<span>
 												{/* <i className="ri-rocket-fill"></i> */}
 												<img
-													src="/images/builtinSection/rocket.png"
+													src="/launchpad/images/builtinSection/rocket.png"
 													className="img-fluid rounded"
 													alt=""
 												/>
@@ -292,7 +292,7 @@ const Index = () => {
 											<span>
 												{/* <i className="ri-group-fill"></i> */}
 												<img
-													src="/images/builtinSection/people.png"
+													src="/launchpad/images/builtinSection/people.png"
 													className="img-fluid rounded"
 													alt=""
 												/>
@@ -309,7 +309,7 @@ const Index = () => {
 											<span>
 												{/* <i className="ri-award-fill"></i> */}
 												<img
-													src="/images/builtinSection/trophy.png"
+													src="/launchpad/images/builtinSection/trophy.png"
 													className="img-fluid rounded"
 													alt=""
 												/>
@@ -355,7 +355,7 @@ const Index = () => {
 							<div className="col-auto">
 								<div className="investor-brand">
 									<img
-										src="/images/brand/1.png"
+										src="/launchpad/images/brand/1.png"
 										className="img-fluid"
 										alt=""
 									/>
@@ -364,7 +364,7 @@ const Index = () => {
 							<div className="col-auto">
 								<div className="investor-brand">
 									<img
-										src="/images/brand/2.png"
+										src="/launchpad/images/brand/2.png"
 										className="img-fluid"
 										alt=""
 									/>
@@ -373,7 +373,7 @@ const Index = () => {
 							<div className="col-auto">
 								<div className="investor-brand">
 									<img
-										src="/images/brand/3.png"
+										src="/launchpad/images/brand/3.png"
 										className="img-fluid"
 										alt=""
 									/>
@@ -382,7 +382,7 @@ const Index = () => {
 							<div className="col-auto">
 								<div className="investor-brand">
 									<img
-										src="/images/brand/4.png"
+										src="/launchpad/images/brand/4.png"
 										className="img-fluid"
 										alt=""
 									/>
@@ -391,7 +391,7 @@ const Index = () => {
 							<div className="col-auto">
 								<div className="investor-brand">
 									<img
-										src="/images/brand/5.png"
+										src="/launchpad/images/brand/5.png"
 										className="img-fluid"
 										alt=""
 									/>
@@ -400,7 +400,7 @@ const Index = () => {
 							<div className="col-auto">
 								<div className="investor-brand">
 									<img
-										src="/images/brand/6.png"
+										src="/launchpad/images/brand/6.png"
 										className="img-fluid"
 										alt=""
 									/>
@@ -409,7 +409,7 @@ const Index = () => {
 							<div className="col-auto">
 								<div className="investor-brand">
 									<img
-										src="/images/brand/7.png"
+										src="/launchpad/images/brand/7.png"
 										className="img-fluid"
 										alt=""
 									/>
@@ -418,7 +418,7 @@ const Index = () => {
 							<div className="col-auto">
 								<div className="investor-brand">
 									<img
-										src="/images/brand/8.png"
+										src="/launchpad/images/brand/8.png"
 										className="img-fluid"
 										alt=""
 									/>
@@ -427,7 +427,7 @@ const Index = () => {
 							<div className="col-auto">
 								<div className="investor-brand">
 									<img
-										src="/images/brand/9.png"
+										src="/launchpad/images/brand/9.png"
 										className="img-fluid"
 										alt=""
 									/>
@@ -436,7 +436,7 @@ const Index = () => {
 							<div className="col-auto">
 								<div className="investor-brand">
 									<img
-										src="/images/brand/10.png"
+										src="/launchpad/images/brand/10.png"
 										className="img-fluid"
 										alt=""
 									/>
@@ -445,7 +445,7 @@ const Index = () => {
 							<div className="col-auto">
 								<div className="investor-brand">
 									<img
-										src="/images/brand/11.png"
+										src="/launchpad/images/brand/11.png"
 										className="img-fluid"
 										alt=""
 									/>
@@ -454,7 +454,7 @@ const Index = () => {
 							<div className="col-auto">
 								<div className="investor-brand">
 									<img
-										src="/images/brand/2.png"
+										src="/launchpad/images/brand/2.png"
 										className="img-fluid"
 										alt=""
 									/>
