@@ -1,14 +1,8 @@
 {
-  "../components/layout/HeaderDemo.js -> ../elements/ThemeSwitch": {
-    "id": 2785,
-    "files": [
-      "static/chunks/785.8ea04606a09724f3.js"
-    ]
-  },
   "../components/layout/HeaderLanding.js -> ../../components/elements/ThemeSwitch": {
-    "id": 2785,
+    "id": "../components/layout/HeaderLanding.js -> ../../components/elements/ThemeSwitch",
     "files": [
-      "static/chunks/785.8ea04606a09724f3.js"
+      "static/chunks/components_elements_ThemeSwitch_js.js"
     ]
   }
 }

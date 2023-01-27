@@ -30,7 +30,7 @@ const CompleteList = () => {
         <>
             {data.map((item, i) => (
 
-                <div className="col-xl-3 col-md-6">
+                <div className="col-xl-3 col-md-6" key={i}>
                     <div className="card explore-list ">
                         <img
                             src={`/launchpad/images/items/${item.img}`}
