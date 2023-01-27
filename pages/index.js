@@ -72,7 +72,7 @@ const Index = () => {
 							</div>
 							<div className="col-xl-6">
 								<div className="intro-slider">
-									<img src={`/launchpad/images/homeBanner.png`} className='img-fluid' alt="BlockChain" />
+									<img src={`/launchpad/images/items/hb.png`} className='img-fluid' alt="BlockChain" />
 									{/* <IntroSlider /> */}
 								</div>
 							</div>

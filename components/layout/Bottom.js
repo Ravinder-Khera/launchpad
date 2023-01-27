@@ -38,7 +38,7 @@ const Bottom = () => {
                                         <Link href="/collection"><a>Collection</a></Link>
                                     </li>
                                     <li>
-                                        <Link href="/connect"><a>Connect</a></Link>
+                                        <Link href="/contact"><a>Connect</a></Link>
                                     </li>
                                 </ul>
                             </div>

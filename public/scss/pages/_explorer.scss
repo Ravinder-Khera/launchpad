@@ -1,15 +1,11 @@
-.explore, .explore-details{
-	background: url('../images/pagesBg.png');
+.explore, .explore-details, .explore-list .farming, .leaderboard , .contact-form, .ranking, .teamdetails, .roadmap, .stacking{
+	background: url('../images/newTemplate/pagesBg.png');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 .explore-list {
 	text-align: center;
-	background: url('../images/pagesBg.png');
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center;
 	.explore-list-banner{
 		border-bottom: 1px solid $primary;
 	}
