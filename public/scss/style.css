@@ -11946,7 +11946,7 @@ strong {
 }
 
 .bottom {
-  background: url("../images/newTemplate/whatWeDo.png");
+  background: url("../images/newTemplate/whatWeDo.webp");
   background-size: cover;
   position: relative;
 }
@@ -12605,7 +12605,7 @@ button:hover, button:focus, button:active,
 }
 
 .authincation {
-  background: url("../images/newTemplate/pagesBg.png");
+  background: url("../images/newTemplate/pagesBg.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -12709,7 +12709,7 @@ button:hover, button:focus, button:active,
 }
 
 .explore, .explore-details, .explore-list .farming, .leaderboard, .contact-form, .ranking, .teamdetails, .roadmap, .stacking {
-  background: url("../images/newTemplate/pagesBg.png");
+  background: url("../images/newTemplate/pagesBg.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -12893,7 +12893,7 @@ button:hover, button:focus, button:active,
 }
 
 .intro1 {
-  background-image: url("../images/newTemplate/bannerHome.png");
+  background-image: url("../images/newTemplate/bannerHome.webp");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -13008,7 +13008,7 @@ button:hover, button:focus, button:active,
 }
 
 .what-we-do {
-  background: url("../images/newTemplate/whatWeDo.png");
+  background: url("../images/newTemplate/whatWeDo.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
